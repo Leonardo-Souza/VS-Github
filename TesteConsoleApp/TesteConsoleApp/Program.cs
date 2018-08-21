@@ -10,7 +10,7 @@ namespace TesteConsoleApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Exemplo de uso do Github");
+            Console.WriteLine("Exemplo de uso do Github alteração");
             Console.ReadKey();
         }
     }
